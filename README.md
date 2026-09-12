@@ -79,6 +79,29 @@
   <a href="https://neo4j.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white" alt="Neo4j" /></a>
 </p>
 
+### 🤖 Generative AI & Agentic Frameworks
+<p align="left">
+  <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangGraph" /></a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain" /></a>
+  <a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Claude%20(Anthropic)-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude" /></a>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" /></a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+  <a href="https://ollama.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" alt="Ollama" /></a>
+</p>
+
+### 🧠 Machine Learning, MLOps & AI Cloud
+<p align="left">
+  <a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch" /></a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow" /></a>
+  <a href="https://mlflow.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MLflow-%230194E2.svg?style=flat&logo=mlflow&logoColor=white" alt="MLflow" /></a>
+  <a href="https://aws.amazon.com/bedrock/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Bedrock" /></a>
+  <a href="https://cloud.google.com/vertex-ai" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Vertex AI" /></a>
+  <a href="https://azure.microsoft.com/en-us/products/ai-services/openai-service" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure OpenAI" /></a>
+  <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white" alt="Pinecone" /></a>
+  <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat&logo=google-cloud&logoColor=white" alt="ChromaDB" /></a>
+  <a href="https://scikit-learn.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" /></a>
+</p>
+
 ### Machine Learning & Data Science
 <p align="left">
   <a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch" /></a>
