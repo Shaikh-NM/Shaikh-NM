@@ -1,4 +1,4 @@
-# Hi there, I'm Sk Nishan Mondal 👋
+# Hi there, I'm NISHAN 👋
 
 > Software Engineer focused on high-throughput distributed systems, low-latency microservices, and cloud-native architecture.
 
