@@ -102,16 +102,6 @@
   <a href="https://scikit-learn.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" /></a>
 </p>
 
-### Machine Learning & Data Science
-<p align="left">
-  <a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch" /></a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow" /></a>
-  <a href="https://scikit-learn.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" /></a>
-  <a href="https://mlflow.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MLflow-%230194E2.svg?style=flat&logo=mlflow&logoColor=white" alt="MLflow" /></a>
-  <a href="https://opencv.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&logoColor=white" alt="OpenCV" /></a>
-  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas" /></a>
-  <a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy" /></a>
-</p>
 
 ### CI/CD, Observability & Tooling
 <p align="left">
