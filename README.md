@@ -1,7 +1,7 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Nishan%20Mondal&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Distributed%20Systems%20%E2%80%A2%20Event-Driven%20Microservices%20%E2%80%A2%20Cloud-Native%20Backends&descSize=17&descAlignY=60&animation=fadeIn" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Sk%20Nishan%20Mondal&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Distributed%20Systems%20%E2%80%A2%20Event-Driven%20Microservices%20%E2%80%A2%20Cloud-Native%20Backends&descSize=17&descAlignY=60&animation=fadeIn" alt="Header" />
 
 <a href="https://github.com/Shaikh-NM">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=720&lines=Building+high-throughput+backend+systems;Kafka+%7C+Redis+%7C+Spring+Boot+%7C+Kubernetes;Saga+patterns%2C+fraud+detection%2C+HLS+streaming;Shaving+milliseconds+off+latency+for+fun" alt="Typing animation" />
