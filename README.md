@@ -169,8 +169,6 @@ Synchronous calls only where an immediate answer is required; everything else fl
 **Messaging, Streaming & Data**<br/>
 <a href="https://kafka.apache.org/documentation/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kafka&theme=dark" width="48" height="48" alt="Apache Kafka" title="Apache Kafka" /></a>
 <a href="https://www.rabbitmq.com/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" width="48" height="48" alt="RabbitMQ" title="RabbitMQ" /></a>
-<a href="https://spark.apache.org/docs/latest/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=spark&theme=dark" width="48" height="48" alt="Apache Spark" title="Apache Spark" /></a>
-<a href="https://airflow.apache.org/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=airflow&theme=dark" width="48" height="48" alt="Apache Airflow" title="Apache Airflow" /></a>
 <a href="https://redis.io/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" height="48" alt="Redis" title="Redis" /></a>
 <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" /></a>
 <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" title="MySQL" /></a>
@@ -178,8 +176,11 @@ Synchronous calls only where an immediate answer is required; everything else fl
 <a href="https://cassandra.apache.org/doc/latest/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cassandra&theme=dark" width="48" height="48" alt="Cassandra" title="Cassandra" /></a>
 <a href="https://www.elastic.co/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=elasticsearch&theme=dark" width="48" height="48" alt="Elasticsearch" title="Elasticsearch" /></a>
 <a href="https://docs.aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dynamodb&theme=dark" width="48" height="48" alt="DynamoDB" title="DynamoDB" /></a>
-<a href="https://neo4j.com/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=neo4j&theme=dark" width="48" height="48" alt="Neo4j" title="Neo4j" /></a>
 
+<br/>
+<a href="https://spark.apache.org/docs/latest/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" /></a>
+<a href="https://airflow.apache.org/docs/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" /></a>
+<a href="https://neo4j.com/docs/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" /></a>
 <br/><br/>
 
 **Cloud & DevOps**<br/>
@@ -201,8 +202,9 @@ Synchronous calls only where an immediate answer is required; everything else fl
 <a href="https://pytorch.org/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" height="48" alt="PyTorch" title="PyTorch" /></a>
 <a href="https://www.tensorflow.org/api_docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" height="48" alt="TensorFlow" title="TensorFlow" /></a>
 <a href="https://scikit-learn.org/stable/user_guide.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48" height="48" alt="scikit-learn" title="scikit-learn" /></a>
-<a href="https://huggingface.co/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=huggingface&theme=dark" width="48" height="48" alt="Hugging Face" title="Hugging Face" /></a>
 
+<br/>
+<a href="https://huggingface.co/docs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
 <br/><br/>
 
 <a href="https://docs.claude.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" /></a>
