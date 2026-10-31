@@ -21,7 +21,7 @@
 ## ⚡ whoami
 
 ```java
-public class Nishan implements SoftwareEngineer {
+public class Nishan implements FullStackEngineer {
 
     String focus       = "High-throughput distributed systems & low-latency microservices";
     String daily       = "Spring Boot • Kafka • Redis • Docker • Kubernetes";
